@@ -5,7 +5,7 @@ Wynncraft is a remarkable MMMORPG built within Minecraft, in the form of a Minec
 **Important: IMPORTING A CLONED ``.zip`` FROM THIS REPOSITORY INTO CURSEFORGE WILL NOT WORK.**
 
 ### Step One:
-Head on over to the [releases page](https://github.com/crrystalz/Better-Wynncraft/releases), and download the **newest** release. This will download a ``.zip`` onto your computer. Do **not** extract this zip file.
+Head on over to the [releases page](https://github.com/crrystalz/Better-Wynncraft/releases), and download the **newest** release, the file should be called "Better.Wynncraft-(version number).zip. This will download a ``.zip`` onto your computer. Do **not** extract this zip file.
 
 ### Step Two:
 Install the [Curseforge](https://download.curseforge.com) app if you don't already have it. Navigate to the Minecraft page where you should see two headers titled "My Modpacks" and "Browse Modpacks".
