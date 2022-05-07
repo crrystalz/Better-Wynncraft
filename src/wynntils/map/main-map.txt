@@ -1,0 +1,4 @@
+[MD5] = 1a10459d878e377d0244154632d4718d
+[DownloadLocation] = https://api.wynntils.com/maps/main-map.png
+[CenterX] = 1651
+[CenterZ] = -159

@@ -1,0 +1,1813 @@
+{
+  "dungeons": {
+    "Decrepit Sewers": "Anthem of Rot (Decrepit Sewers)",
+    "Infested Pit": "Arachnophobia (Infested Pit)",
+    "Lost Sanctuary": "Bottom of the Food Chain (Lost Sanctuary)",
+    "Underworld Crypt": "March of the Defeated (Underworld Crypt)",
+    "Sand-Swept Tomb": "Mirage of Dust (Sand-Swept Tomb)",
+    "Ice Barrows": "Dissonance (Ice Barrows)",
+    "Undergrowth Ruins": "Tribal Drums Beating (Undergrowth Ruins)",
+    "Galleon's Graveyard": "Mind of a Pirate (Galleon's Graveyard)",
+    "Fallen Factory": "A-U-T-O-M-A-T-I-O-N (Fallen Factory)",
+    "Eldritch Outlook": "Everpresence (Eldritch Outlook)",
+    "Corrupted Decrepit Sewers": "Insanity (Corrupted Dungeon)",
+    "Corrupted Infested Pit": "Insanity (Corrupted Dungeon)",
+    "Corrupted Lost Sanctuary": "Insanity (Corrupted Dungeon)",
+    "Corrupted Underworld Crypt": "Insanity (Corrupted Dungeon)",
+    "Corrupted Sand-Swept Tomb": "Insanity (Corrupted Dungeon)",
+    "Corrupted Ice Barrows": "Insanity (Corrupted Dungeon)",
+    "Corrupted Undergrowth Ruins" : "Insanity (Corrupted Dungeon)",
+    "The Canyon Colossus": "At Its Breaking Point (The Canyon Colossus)",
+    "Nest of The Grootslangs": "Feared by Earth (Nest of the Grootslangs)",
+    "Orphion's Nexus of Light": "Journey (Orphion's Nexus of Light)"
+  },
+  "entries": {
+    "wars": "Begin the Siege! (Guild Wars)",
+    "characterSelector": "Gylia Shanty (Cinfras County)",
+    "regionCompleted": "Triumphant Adventure (Region Completed)",
+    "mythicFound": "Infinite Pleasure (Mythic Found)",
+    "easterEgg1": "Never Gonna Give You Up (Easter Egg 1)"
+  },
+  "bosses": {
+    "Witherhead": "Fierce Foe (Boss Battle 1)",
+    "Well Witch": "Fearsome Foe (Boss Battle 2)",
+    "Sayleros' Brother": "Fearsome Foe (Boss Battle 2)",
+    "Sayleros' Brother's Skeleton": "Fearsome Foe (Boss Battle 2)",
+    "Haunted Mask": "Fearsome Foe (Boss Battle 2)",
+    "Cluckles": "Energetic Encounter (Boss Battle 5)",
+    "Rotten Necromancer": "Fearsome Foe (Boss Battle 2)",
+    "Colossal Rat": "Energetic Encounter (Boss Battle 5)",
+    "Etus the Blind": "Fearsome Foe (Boss Battle 2)",
+    "Albert the Strong": "Fearsome Foe (Boss Battle 2)",
+    "Totemic Protector": "Fearsome Foe (Boss Battle 2)",
+    "Pharaoh Nabak": "Fearsome Foe (Boss Battle 2)",
+    "The Mummy": "Energetic Encounter (Boss Battle 5)",
+    "The Cockatrice": "Fearsome Foe (Boss Battle 2)",
+    "Snow Bear": "Infinite Ascension (Tower of Ascension 2)",
+    "Argaddon": "Infinite Ascension (Tower of Ascension 2)",
+    "Witch-Doctor": "Infinite Ascension (Tower of Ascension 2)",
+    "Guardian": "Infinite Ascension (Tower of Ascension 2)",
+    "Chained Beast": "Infinite Ascension (Tower of Ascension 2)",
+    "Alkevö": "Infinite Ascension (Tower of Ascension 2)",
+    "Death": "Infinite Ascension (Tower of Ascension 2)",
+    "Captain": "Fearsome Foe (Boss Battle 2)",
+    "Phantom Twain": "Fearsome Foe (Boss Battle 2)",
+    "Dead Pirate Guard": "Fearsome Foe (Boss Battle 2)",
+    "Treasure Guardian": "Fearsome Foe (Boss Battle 2)",
+    "Possessed Aryn": "Fearsome Foe (Boss Battle 2)",
+    "Corrupter of Worlds": "World Ender (Boss Battle 10)",
+    "Corrupted Amadel": "Fearsome Foe (Boss Battle 2)",
+    "Shadow Amadel": "Fearsome Foe (Boss Battle 2)",
+    "Fully Formed Amadel": "Melody of Reckoning (Boss Battle 7)",
+    "Wynnexcavation Leader Amadel": "Fearsome Foe (Boss Battle 2)",
+    "Aenara": "Fearsome Foe (Boss Battle 2)",
+    "Mooington": "Fearsome Foe (Boss Battle 2)",
+    "Baab": "Fearsome Foe (Boss Battle 2)",
+    "Defective Guard Golem": "Fearsome Foe (Boss Battle 2)",
+    "Cursed Warlock": "Fearsome Foe (Boss Battle 2)",
+    "Biohazard Amalgamate": "Fearsome Foe (Boss Battle 2)",
+    "Bigfoot": "Fearsome Foe (Boss Battle 2)",
+    "Remains of Mister Caritat": "Energetic Encounter (Boss Battle 5)",
+    "Naragath, the Demon Prince": "Weirding (Boss Battle 9)",
+    "Harrowing Banshee": "Fearsome Foe (Boss Battle 2)",
+    "Devourer of Light": "Fearsome Foe (Boss Battle 2)",
+    "Gryndilin Chief": "Fearsome Foe (Boss Battle 2)",
+    "Grand Mage Vidobe": "Fearsome Foe (Boss Battle 2)",
+    "Representative Ernold": "Fearsome Foe (Boss Battle 2)",
+    "Corpus Accipientis": "Fearsome Foe (Boss Battle 2)",
+    "Qira, Mistress of the Hive": "Mistress of the Hive (Boss Battle 6)",
+    "Veekhat the Minotaur": "Fearsome Foe (Boss Battle 2)",
+    "Krolton": "Fearsome Foe (Boss Battle 2)",
+    "Captain Goldenclaw": "Fearsome Foe (Boss Battle 2)",
+    "Steam Mech-DM1": "Fearsome Foe (Boss Battle 2)",
+    "Fiery Mech-DM2": "Fearsome Foe (Boss Battle 2)",
+    "Intelligent Mech-DM3": "Fearsome Foe (Boss Battle 2)",
+    "Big Boss Mech-DM666": "Fearsome Foe (Boss Battle 2)",
+    "Mech X": "Energetic Encounter (Boss Battle 5)",
+    "Maxi-M Mobile Cannon 04": "Fearsome Foe (Boss Battle 2)",
+    "Maxi-M Combat Disruptor 02": "Fearsome Foe (Boss Battle 2)",
+    "Aledar, the Betrayed": "A Day to Remember (Boss Battle 13)",
+    "Tasim, the Resigned": "A Day to Remember (Boss Battle 13)",
+    "Aledar, the Exterminator": "A Day to Remember (Boss Battle 13)",
+    "Tasim, the Protector": "A Day to Remember (Boss Battle 13)",
+    "Panic Zealot": "Catalyst for a Fractured Psyche (Boss Battle 15)"
+  },
+  "areas": [
+    {
+      "id": "Rotten Passage",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 3886,
+        "startZ": -2258,
+        "endX": 3961,
+        "endZ": -2181
+      }
+    },
+    {
+      "id": "Bovine Barn",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 1739,
+        "startZ": -3496,
+        "endX": 1802,
+        "endZ": -3435
+      }
+    },
+    {
+      "id": "Plague Laboratory",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -2295,
+        "startZ": -5657,
+        "endX": -2227,
+        "endZ": -5569
+      }
+    },
+    {
+      "id": "Tribal Sanctuary",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -5005,
+        "startZ": -995,
+        "endX": -4945,
+        "endZ": -939
+      }
+    },
+    {
+      "id": "Challenge of the Blades",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -772,
+        "startZ": -5682,
+        "endX": -744,
+        "endZ": -5649
+      }
+    },
+    {
+      "id": "Altar of Sanctification",
+      "trackName": "Weirding (Boss Battle 9)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -2873,
+        "startZ": -687,
+        "endX": -2807,
+        "endZ": -621
+      }
+    },
+    {
+      "id": "Prison of Souls",
+      "trackName": "Fearsome Foe (Boss Battle 2)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -53,
+        "startZ": 401,
+        "endX": 6,
+        "endZ": 463
+      }
+    },
+    {
+      "id": "Sunrise Canyon",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 2288,
+        "startZ": -1483,
+        "endX": 2383,
+        "endZ": -1406
+      }
+    },
+    {
+      "id": "Arena of the Legends",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -3678,
+        "startZ": -1069,
+        "endX": -3610,
+        "endZ": -1013
+      }
+    },
+    {
+      "id": "Geyser Pit",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -3286,
+        "startZ": -3339,
+        "endX": -3211,
+        "endZ": -3247
+      }
+    },
+    {
+      "id": "Aerie of the Recluse",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -2977,
+        "startZ": -3157,
+        "endX": -2893,
+        "endZ": -3112
+      }
+    },
+    {
+      "id": "The Orange Wybel",
+      "trackName": "Chaotic Encounter (Boss Battle 3)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 2410,
+        "startZ": -4701,
+        "endX": 2468,
+        "endZ": -4638
+      }
+    },
+    {
+      "id": "Infested Pit Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -10096,
+        "startZ": -11117,
+        "endX": -10039,
+        "endZ": -11066
+      }
+    },
+    {
+      "id": "Lost Sanctuary Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -11173,
+        "startZ": -10460,
+        "endX": -11148,
+        "endZ": -10401
+      }
+    },
+    {
+      "id": "Underworld Crypt Boss",
+      "trackName": "Uncertain Encounter (Boss Battle 4)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -12195,
+        "startZ": -12341,
+        "endX": -12265,
+        "endZ": -12297
+      }
+    },
+    {
+      "id": "Sand-Swerpt Tomb Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -11897,
+        "startZ": -11497,
+        "endX": -11831,
+        "endZ": -11423
+      }
+    },
+    {
+      "id": "Ice Barrows Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 19,
+        "startZ": 1824,
+        "endX": 80,
+        "endZ": 1883
+      }
+    },
+    {
+      "id": "Undergrowth Ruins Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -2657,
+        "startZ": -949,
+        "endX": -2588,
+        "endZ": -886
+      }
+    },
+    {
+      "id": "Galleon's Graveyard Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -3928,
+        "startZ": -2600,
+        "endX": -3862,
+        "endZ": -2520
+      }
+    },
+    {
+      "id": "Fallen Factory Boss",
+      "trackName": "Fierce Foe (Boss Battle 1)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -8865,
+        "startZ": -2329,
+        "endX": -8740,
+        "endZ": -2239
+      }
+    },
+    {
+      "id": "Eldritch Outlook Boss",
+      "trackName": "Genesis of the End (Boss Battle 12)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 4901,
+        "startZ": 1808,
+        "endX": 4961,
+        "endZ": 1868
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 1",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -282.0,
+        "startZ": 777.0,
+        "endX": -204.0,
+        "endZ": 1538.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 2",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -354.0,
+        "startZ": 777.0,
+        "endX": -297.0,
+        "endZ": 1540.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 3",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -442.0,
+        "startZ": 778.0,
+        "endX": -368.0,
+        "endZ": 1540.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 4",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -517.0,
+        "startZ": 779.0,
+        "endX": -451.0,
+        "endZ": 1541.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 5",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -601.0,
+        "startZ": 780.0,
+        "endX": -536.0,
+        "endZ": 1542.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 6",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -691.0,
+        "startZ": 781.0,
+        "endX": -621.0,
+        "endZ": 1544.0
+      }
+    },
+    {
+      "id": "Tower of Ascention Floor 7",
+      "trackName": "Endless Climb (Tower of Ascension 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 298.0,
+        "startZ": 988.0,
+        "endX": 1434.0,
+        "endZ": 1296.0
+      }
+    },
+    {
+      "id": "Legendary Challenge",
+      "trackName": "Legendary Rumble! (Boss Battle 14)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -5676,
+        "startZ": -3117,
+        "endX": -5688,
+        "endZ": -3028
+      }
+    },
+    {
+      "id": "Bob's Reincarnation",
+      "trackName": "The Last Stand (Boss Battle 8)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 8193,
+        "startZ": 8034,
+        "endX": 8256,
+        "endZ": 8030
+      }
+    },
+    {
+      "id": "Hive Thunder Floor",
+      "trackName": "Elemental Chaos (Hive Floors)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1045.0,
+        "startZ": -7835.0,
+        "endX": 1080.0,
+        "endZ": -7223.0
+      }
+    },
+    {
+      "id": "Hive Air Floor",
+      "trackName": "Elemental Chaos (Hive Floors)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 976.0,
+        "startZ": -7832.0,
+        "endX": 1009.0,
+        "endZ": -7222.0
+      }
+    },
+    {
+      "id": "Hive Earth Floor",
+      "trackName": "Elemental Chaos (Hive Floors)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1116.0,
+        "startZ": -7835.0,
+        "endX": 1151.0,
+        "endZ": -7222.0
+      }
+    },
+    {
+      "id": "Hive Water Floor",
+      "trackName": "Elemental Chaos (Hive Floors)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1186.0,
+        "startZ": -7834.0,
+        "endX": 1223.0,
+        "endZ": -7221.0
+      }
+    },
+    {
+      "id": "Hive Fire Floor",
+      "trackName": "Elemental Chaos (Hive Floors)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1255.0,
+        "startZ": -7834.0,
+        "endX": 1289.0,
+        "endZ": -7220.0
+      }
+    },
+    {
+      "id": "Death's Realm",
+      "trackName": "Funeral Service at 10 O'Clock (Death's Realm)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 11.0,
+        "startZ": -8265.0,
+        "endX": 971.0,
+        "endZ": -7305.0
+      }
+    },
+    {
+      "id": "Seaskipper",
+      "trackName": "Beatskipper (Seaskipper)",
+      "fastSwitch": true,
+      "region": {
+        "startX": 16327,
+        "startZ": 15725,
+        "endX": 16347,
+        "endZ": 15751
+      }
+    },
+    {
+      "id": "Relos",
+      "trackName": "Waters of Prosperity (Relos)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1720.0,
+        "startZ": -2426.0,
+        "endX": -1580.0,
+        "endZ": -2293.0
+      }
+    },
+    {
+      "id": "Corkus Docks",
+      "trackName": "Settlements of Freedom (Corkus Docks)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1447.0,
+        "startZ": -3006.0,
+        "endX": -1247.0,
+        "endZ": -2839.0
+      }
+    },
+    {
+      "id": "Corkus City",
+      "trackName": "Corkian National Anthem (Corkus City)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1696.0,
+        "startZ": -3018.0,
+        "endX": -1461.0,
+        "endZ": -2818.0
+      }
+    },
+    {
+      "id": "Avos Territory",
+      "trackName": "Wings of Distrust (Avos Territory)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -2000.0,
+        "startZ": -3383.0,
+        "endX": -1655.0,
+        "endZ": -3070.0
+      }
+    },
+    {
+      "id": "Corkus Island",
+      "trackName": "Machinations of Chaos (Corkus)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -2124.0,
+        "startZ": -3466.0,
+        "endX": -1216.0,
+        "endZ": -1998.0
+      }
+    },
+    {
+      "id": "Ruined Olmic City",
+      "trackName": "Where They Wandered (Ruined Olmic City)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 395.0,
+        "startZ": -661.0,
+        "endX": 786.0,
+        "endZ": -302.0
+      }
+    },
+    {
+      "id": "Eyeball Forest",
+      "trackName": "All Eyes on Me (Eyeball Forest)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 776.0,
+        "startZ": -340.0,
+        "endX": 1078.0,
+        "endZ": -645.0
+      }
+    },
+    {
+      "id": "Lutho",
+      "trackName": "Freedom in Darkness (Lutho)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 925.0,
+        "startZ": -760.0,
+        "endX": 1048.0,
+        "endZ": -650.0
+      }
+    },
+    {
+      "id": "Toxic Wastes",
+      "trackName": "Its Melting Point (Toxic Wastes)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 698.0,
+        "startZ": -1105.0,
+        "endX": 1126.0,
+        "endZ": -797.0
+      }
+    },
+    {
+      "id": "Void Valley",
+      "trackName": "Tangled in Endless Roots (Void Valley)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1015.0,
+        "startZ": -1148.0,
+        "endX": 1298.0,
+        "endZ": -912.0
+      }
+    },
+    {
+      "id": "Portal to Dern",
+      "trackName": "End of the Road (Portal to Dern)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1232.0,
+        "startZ": -532.0,
+        "endX": 1407.0,
+        "endZ": -307.0
+      }
+    },
+    {
+      "id": "Ahmsord",
+      "trackName": "City in the Sky (Ahmsord)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 935.0,
+        "startZ": -4637.0,
+        "endX": 1171.0,
+        "endZ": -4462.0
+      }
+    },
+    {
+      "id": "Kandon-Beda",
+      "trackName": "Standing on Thin Air (Kandon-Beda)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 539.0,
+        "startZ": -4566.0,
+        "endX": 817.0,
+        "endZ": -4348.0
+      }
+    },
+    {
+      "id": "Sky Islands",
+      "trackName": "Amongst the Clouds (Sky Islands)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 699.0,
+        "startZ": -4958.0,
+        "endX": 1542.0,
+        "endZ": -4228.0
+      }
+    },
+    {
+      "id": "Nesaak Village",
+      "trackName": "Snowdrifts Billowing (Nesaak Village)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 61.0,
+        "startZ": -888.0,
+        "endX": 226.0,
+        "endZ": -748.0
+      }
+    },
+    {
+      "id": "Bob's Thomb",
+      "trackName": "Visions of the Warrior (Bob's Tomb)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 246,
+        "startZ": -747,
+        "endX": 380,
+        "endZ": -867
+      }
+    },
+    {
+      "id": "House of Twain",
+      "trackName": "Forlorn Halls (House of Twain)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 88.0,
+        "startZ": -398.0,
+        "endX": 142.0,
+        "endZ": -319.0
+      }
+    },
+    {
+      "id": "Great Bridge",
+      "trackName": "The Great Race (Great Bridge)",
+      "fastSwitch": true,
+      "region": {
+        "startX": -502.0,
+        "startZ": -743.0,
+        "endX": -238.0,
+        "endZ": -647.0
+      }
+    },
+    {
+      "id": "Lusuco",
+      "trackName": "Frozen Waltz (Lusuco)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -239.0,
+        "startZ": -338.0,
+        "endX": -156.0,
+        "endZ": -281.0
+      }
+    },
+    {
+      "id": "Ice Canyon",
+      "trackName": "Frozen Lands (Ice Canyon)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -458.0,
+        "startZ": -539.0,
+        "endX": -79.0,
+        "endZ": -272.0
+      }
+    },
+    {
+      "id": "Wynnter Fair",
+      "trackName": "Craftmas Carol (Craftmas Island)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -460.0,
+        "startZ": -911.0,
+        "endX": -279.0,
+        "endZ": -756.0
+      }
+    },
+    {
+      "id": "Nesaak Forest",
+      "trackName": "Icy Steps (Nesaak Forest)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -246.0,
+        "startZ": -595.0,
+        "endX": 360.0,
+        "endZ": -978.0
+      }
+    },
+    {
+      "id": "Nemract",
+      "trackName": "Muddy Outlook (Nemract)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 2.0,
+        "startZ": -2304.0,
+        "endX": 238.0,
+        "endZ": -2124.0
+      }
+    },
+    {
+      "id": "Saint's Row",
+      "trackName": "Defiled Sancitity (Saint's Row)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 272.0,
+        "startZ": -2173.0,
+        "endX": 393.0,
+        "endZ": -2015.0
+      }
+    },
+    {
+      "id": "Nemract Swamp",
+      "trackName": "Unfamiliar Lands (Nemract Swamp)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -49.0,
+        "startZ": -2322.0,
+        "endX": 433.0,
+        "endZ": -1996.0
+      }
+    },
+    {
+      "id": "Ancient Nemract",
+      "trackName": "Yearning for the Days of Glory (Ancient Nemract)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 90.0,
+        "startZ": -1993.0,
+        "endX": 338.0,
+        "endZ": -1851.0
+      }
+    },
+    {
+      "id": "Rymek Mansion",
+      "trackName": "Mission Wynnpossible (Rymek Mansion)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1161.0,
+        "startZ": -1311.0,
+        "endX": 1214.0,
+        "endZ": -1246.0
+      }
+    },
+    {
+      "id": "Rymek",
+      "trackName": "Shady Deals Abounding (Rymek)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1159.0,
+        "startZ": -1376.0,
+        "endX": 1382.0,
+        "endZ": -1185.0
+      }
+    },
+    {
+      "id": "Mesa",
+      "trackName": "Sun-Stained Stones (Mesa)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 968.0,
+        "startZ": -1709.0,
+        "endX": 1516.0,
+        "endZ": -1162.0
+      }
+    },
+    {
+      "id": "Temple of Legends",
+      "trackName": "In The Little Wood (Little Wood)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -665,
+        "startZ": -1091,
+        "endX": -719,
+        "endZ": -989
+      }
+    },
+    {
+      "id": "City of Troms",
+      "trackName": "Wynn's Shining Fortress (City of Troms)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -932.0,
+        "startZ": -1057.0,
+        "endX": -738.0,
+        "endZ": -834.0
+      }
+    },
+    {
+      "id": "Dernel Jungle 1",
+      "trackName": "Uncivilization (Dernel Jungle)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1018.0,
+        "startZ": -543.0,
+        "endX": -487.0,
+        "endZ": -229.0
+      }
+    },
+    {
+      "id": "Dernel Jungle 2",
+      "trackName": "Uncivilization (Dernel Jungle)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1014.0,
+        "startZ": -835.0,
+        "endX": -808.0,
+        "endZ": -546.0
+      }
+    },
+    {
+      "id": "Iboju Village",
+      "trackName": "Harmonic Tradition (Iboju Village)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -828.0,
+        "startZ": -722.0,
+        "endX": -704.0,
+        "endZ": -571.0
+      }
+    },
+    {
+      "id": "Jungle",
+      "trackName": "The Legend Begins (Jungle)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -803.0,
+        "startZ": -832.0,
+        "endX": -502.0,
+        "endZ": -557.0
+      }
+    },
+    {
+      "id": "Ragni Outskirts",
+      "trackName": "Epic Wynn (Ragni Outskirts)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1663.0,
+        "startZ": -1771.0,
+        "endX": -985.0,
+        "endZ": -1360.0
+      }
+    },
+    {
+      "id": "Ragni",
+      "trackName": "Luxury of the Cease-Fire (Ragni)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -979.0,
+        "startZ": -1767.0,
+        "endX": -741.0,
+        "endZ": -1413.0
+      }
+    },
+    {
+      "id": "Emerald Trail",
+      "trackName": "Adventure (Emerald Trail)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -739.0,
+        "startZ": -1765.0,
+        "endX": -405.0,
+        "endZ": -1479.0
+      }
+    },
+    {
+      "id": "Ravine Village",
+      "trackName": "Sheltered Settlement (Ravine Village)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -651.0,
+        "startZ": -1456.0,
+        "endX": -559.0,
+        "endZ": -1366.0
+      }
+    },
+    {
+      "id": "Pigman's Ravine 1",
+      "trackName": "Treacherous Walkways (Pigman's Ravines)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -919.0,
+        "startZ": -1359.0,
+        "endX": -749.0,
+        "endZ": -1168.0
+      }
+    },
+    {
+      "id": "Pigman's Ravine 2",
+      "trackName": "Treacherous Walkways (Pigman's Ravines)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -748.0,
+        "startZ": -1405.0,
+        "endX": -611.0,
+        "endZ": -1320.0
+      }
+    },
+    {
+      "id": "Pigman's Ravine 3",
+      "trackName": "Treacherous Walkways (Pigman's Ravines)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -747.0,
+        "startZ": -1317.0,
+        "endX": -678.0,
+        "endZ": -1236.0
+      }
+    },
+    {
+      "id": "Coast Trail 1",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -822.0,
+        "startZ": -2347.0,
+        "endX": -509.0,
+        "endZ": -1973.0
+      }
+    },
+    {
+      "id": "Coast Trail 2",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -507.0,
+        "startZ": -2269.0,
+        "endX": -353.0,
+        "endZ": -1987.0
+      }
+    },
+    {
+      "id": "Coast Trail 3",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -353.0,
+        "startZ": -2287.0,
+        "endX": -236.0,
+        "endZ": -2054.0
+      }
+    },
+    {
+      "id": "Coast Trail 4",
+      "trackName": "Fresh Breeze of Salt (Coast Trail)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -236.0,
+        "startZ": -2320.0,
+        "endX": -56.0,
+        "endZ": -2161.0
+      }
+    },
+    {
+      "id": "Maltic",
+      "trackName": "The Binding Alliance (Maltic)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -612.0,
+        "startZ": -1966.0,
+        "endX": -454.0,
+        "endZ": -1873.0
+      }
+    },
+    {
+      "id": "Maltic Plains",
+      "trackName": "Warrior Adventure (Maltic Plains)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -728.0,
+        "startZ": -1955.0,
+        "endX": -356.0,
+        "endZ": -1769.0
+      }
+    },
+    {
+      "id": "Roots of Corruption",
+      "trackName": "No Man's Land (Roots of Corruption)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 73.0,
+        "startZ": -1427.0,
+        "endX": 392.0,
+        "endZ": -1246.0
+      }
+    },
+    {
+      "id": "Abandoned Mines",
+      "trackName": "Mining Rhythms (Abandoned Mines)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 617.0,
+        "startZ": -1354.0,
+        "endX": 881.0,
+        "endZ": -1166.0
+      }
+    },
+    {
+      "id": "Ternaves",
+      "trackName": "Saddle Up (Ternaves)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 760.0,
+        "startZ": -1683.0,
+        "endX": 875.0,
+        "endZ": -1532.0
+      }
+    },
+    {
+      "id": "Black Road",
+      "trackName": "Black Road Nostalgia (Black Road)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 566.0,
+        "startZ": -1648.0,
+        "endX": 808.0,
+        "endZ": -1357.0
+      }
+    },
+    {
+      "id": "Detlas",
+      "trackName": "Triumphant Citadel (Detlas)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 388.0,
+        "startZ": -1663.0,
+        "endX": 549.0,
+        "endZ": -1502.0
+      }
+    },
+    {
+      "id": "Detlas Suburbs",
+      "trackName": "Quiet Beginnings (Detlas Suburbs)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 68.0,
+        "startZ": -1794.0,
+        "endX": 380.0,
+        "endZ": -1445.0
+      }
+    },
+    {
+      "id": "Almuj",
+      "trackName": "Jewel of the Desert (Almuj)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 839.0,
+        "startZ": -2049.0,
+        "endX": 1056.0,
+        "endZ": -1872.0
+      }
+    },
+    {
+      "id": "Invaded Barracks",
+      "trackName": "Allegiances as Quicksand (Takan's Barracks)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1354.0,
+        "startZ": -2321.0,
+        "endX": 1503.0,
+        "endZ": -2222.0
+      }
+    },
+    {
+      "id": "Mummy's Tomb",
+      "trackName": "Accursed Dunes (Mummy's Tomb)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1021.0,
+        "startZ": -2381.0,
+        "endX": 1079.0,
+        "endZ": -2290.0
+      }
+    },
+    {
+      "id": "Desert",
+      "trackName": "Stirring the Sands (Desert)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 908.0,
+        "startZ": -2324.0,
+        "endX": 1459.0,
+        "endZ": -1621.0
+      }
+    },
+    {
+      "id": "Bremminglar",
+      "trackName": "Sacred Hospitality (Bremminglar)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 627.0,
+        "startZ": -2144.0,
+        "endX": 759.0,
+        "endZ": -2032.0
+      }
+    },
+    {
+      "id": "Savannah",
+      "trackName": "Ballad of the Trees (Savannah)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 620.0,
+        "startZ": -2216.0,
+        "endX": 898.0,
+        "endZ": -1662.0
+      }
+    },
+    {
+      "id": "Nivla Wood",
+      "trackName": "Forest Dance (Nivla Woods)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -406.0,
+        "startZ": -1818.0,
+        "endX": -56.0,
+        "endZ": -1361.0
+      }
+    },
+    {
+      "id": "Little Wood",
+      "trackName": "In The Little Wood (Little Wood)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -778.0,
+        "startZ": -1257.0,
+        "endX": -604.0,
+        "endZ": -1071.0
+      }
+    },
+    {
+      "id": "Time Valley",
+      "trackName": "Remnants of the Past (Time Valley)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -581.0,
+        "startZ": -1247.0,
+        "endX": -372.0,
+        "endZ": -1016.0
+      }
+    },
+    {
+      "id": "Elkurn",
+      "trackName": "Understated Pride (Elkurn)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -47.0,
+        "startZ": -1266.0,
+        "endX": 45.0,
+        "endZ": -1086.0
+      }
+    },
+    {
+      "id": "Selchar",
+      "trackName": "Spirited Sailing Stories (Selchar)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -35.0,
+        "startZ": -3277.0,
+        "endX": 220.0,
+        "endZ": -3035.0
+      }
+    },
+    {
+      "id": "Mage Island",
+      "trackName": "Antics of the Fantastical (Mage Island)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 779.0,
+        "startZ": -2952.0,
+        "endX": 983.0,
+        "endZ": -2756.0
+      }
+    },
+    {
+      "id": "Icy Islands",
+      "trackName": "The Unforgiving Slopes (Ice Islands)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 703.0,
+        "startZ": -3586.0,
+        "endX": 1193.0,
+        "endZ": -3211.0
+      }
+    },
+    {
+      "id": "Pirate Cove",
+      "trackName": "At the End of the Alley (Pirate Cove)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -810.0,
+        "startZ": -3262.0,
+        "endX": -563.0,
+        "endZ": -2991.0
+      }
+    },
+    {
+      "id": "Half-Moon Island",
+      "trackName": "Affliction of Lunacy (Half Moon Island)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 898.0,
+        "startZ": -2711.0,
+        "endX": 1143.0,
+        "endZ": -2456.0
+      }
+    },
+    {
+      "id": "Volcanic Isles",
+      "trackName": "Pioneered Triumph (Volcanic Islands)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1183.0,
+        "startZ": -3882.0,
+        "endX": -701.0,
+        "endZ": -3531.0
+      }
+    },
+    {
+      "id": "Skiens Island",
+      "trackName": "The Stronghold Yet Stands (Skien's Island)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 256.0,
+        "startZ": -3648.0,
+        "endX": 557.0,
+        "endZ": -3368.0
+      }
+    },
+    {
+      "id": "Maro Peaks",
+      "trackName": "Forgotten Excelsior (Maro Peaks)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -26.0,
+        "startZ": -4162.0,
+        "endX": 428.0,
+        "endZ": -3774.0
+      }
+    },
+    {
+      "id": "Craftmas Island",
+      "trackName": "Craftmas Carol (Craftmas Island)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1048.0,
+        "startZ": -3211.0,
+        "endX": 1238.0,
+        "endZ": -3066.0
+      }
+    },
+    {
+      "id": "Dead Island",
+      "trackName": "Antiquated Ancestry (Dead Island)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 744.0,
+        "startZ": -4063.0,
+        "endX": 1008.0,
+        "endZ": -3810.0
+      }
+    },
+    {
+      "id": "Jofash Docks",
+      "trackName": "Shanty of the Somber Sailors (Jofash Docks)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1110.0,
+        "startZ": -4226.0,
+        "endX": 1490.0,
+        "endZ": -3985.0
+      }
+    },
+    {
+      "id": "Ocean 1",
+      "trackName": "High Tides (Ocean 1)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -2073.0,
+        "startZ": -4136.0,
+        "endX": -853.0,
+        "endZ": -2644.0
+      }
+    },
+    {
+      "id": "Ocean 2",
+      "trackName": "Stormy Seas (Ocean 2)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -789.0,
+        "startZ": -4170.0,
+        "endX": 629.0,
+        "endZ": -2431.0
+      }
+    },
+    {
+      "id": "Ocean 3",
+      "trackName": "Balada del Vagabundo Marino (Ocean 3)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 649.0,
+        "startZ": -4156.0,
+        "endX": 1426.0,
+        "endZ": -2713.0
+      }
+    },
+    {
+      "id": "Lexdale",
+      "trackName": "No Place to Hide (Lexdale)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -650,
+        "startZ": -5511,
+        "endX": -562,
+        "endZ": -5406
+      }
+    },
+    {
+      "id": "Llevigar",
+      "trackName": "Monument of a New Land (Llevigar)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -2182.0,
+        "startZ": -4658.0,
+        "endX": -1818.0,
+        "endZ": -4407.0
+      }
+    },
+    {
+      "id": "Karoc Quarry",
+      "trackName": "Ten Minutes 'til Breaktime (Karoc Quarry)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1775.0,
+        "startZ": -4559.0,
+        "endX": -1471.0,
+        "endZ": -4346.0
+      }
+    },
+    {
+      "id": "Bucie",
+      "trackName": "Humble Beginnings (Bucie)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1669.0,
+        "startZ": -5013.0,
+        "endX": -1558.0,
+        "endZ": -4930.0
+      }
+    },
+    {
+      "id": "Olux",
+      "trackName": "Gray Skies Dark Days (Olux)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1875.0,
+        "startZ": -5592.0,
+        "endX": -1600.0,
+        "endZ": -5394.0
+      }
+    },
+    {
+      "id": "Gelibord",
+      "trackName": "Lament of the Decay (Gelibord)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1066.0,
+        "startZ": -5345.0,
+        "endX": -963.0,
+        "endZ": -5233.0
+      }
+    },
+    {
+      "id": "Efilim",
+      "trackName": "Camaraderie (Efilim)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1122.0,
+        "startZ": -5050.0,
+        "endX": -1003.0,
+        "endZ": -4964.0
+      }
+    },
+    {
+      "id": "Cinfras",
+      "trackName": "Shining Citadel of the Allies (Cinfras)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -511.0,
+        "startZ": -5050.0,
+        "endX": -320.0,
+        "endZ": -4833.0
+      }
+    },
+    {
+      "id": "Letvus Airbase",
+      "trackName": "To The Sky! (Letvus Airbase)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -317.0,
+        "startZ": -5011.0,
+        "endX": -152.0,
+        "endZ": -4867.0
+      }
+    },
+    {
+      "id": "Aldorei Valley 1",
+      "trackName": "Horizon of the East (Aldorei Valley)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -601.0,
+        "startZ": -4613.0,
+        "endX": -412.0,
+        "endZ": -4355.0
+      }
+    },
+    {
+      "id": "Aldorei Valley 2",
+      "trackName": "Horizon of the East (Aldorei Valley)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -393.0,
+        "startZ": -4528.0,
+        "endX": -50.0,
+        "endZ": -4318.0
+      }
+    },
+    {
+      "id": "Ozoth's Spire",
+      "trackName": "Clear Day Shadows from Above (Ozoth’s Spire)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 110.0,
+        "startZ": -5189.0,
+        "endX": 259.0,
+        "endZ": -5104.0
+      }
+    },
+    {
+      "id": "Thanos",
+      "trackName": "The Hardiest of Souls (Thanos)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 60.0,
+        "startZ": -5290.0,
+        "endX": 191.0,
+        "endZ": -5186.0
+      }
+    },
+    {
+      "id": "Bantisu Air Temple",
+      "trackName": "Anthem of the Air Mage (Bantisu Air Temple)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 469.0,
+        "startZ": -4878.0,
+        "endX": 569.0,
+        "endZ": -4715.0
+      }
+    },
+    {
+      "id": "Thesead",
+      "trackName": "Hard Work Alone (Thesead)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 737.0,
+        "startZ": -5102.0,
+        "endX": 878.0,
+        "endZ": -4970.0
+      }
+    },
+    {
+      "id": "Eltom 1",
+      "trackName": "Fine Work Together (Eltom)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 838.0,
+        "startZ": -5612.0,
+        "endX": 914.0,
+        "endZ": -5544.0
+      }
+    },
+    {
+      "id": "Eltom 2",
+      "trackName": "Fine Work Together (Eltom)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 880.0,
+        "startZ": -5553.0,
+        "endX": 967.0,
+        "endZ": -5496.0
+      }
+    },
+    {
+      "id": "Eltom 3",
+      "trackName": "Fine Work Together (Eltom)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 916.0,
+        "startZ": -5548.0,
+        "endX": 1035.0,
+        "endZ": -5422.0
+      }
+    },
+    {
+      "id": "Eltom 4",
+      "trackName": "Fine Work Together (Eltom)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 896.0,
+        "startZ": -5490.0,
+        "endX": 935.0,
+        "endZ": -5445.0
+      }
+    },
+    {
+      "id": "Rodoroc",
+      "trackName": "Pride, Progress, and Digging Holes (Rodoroc)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 962.0,
+        "startZ": -5225.0,
+        "endX": 1177.0,
+        "endZ": -5064.0
+      }
+    },
+    {
+      "id": "Maex",
+      "trackName": "Hideaway of the Stalwart (Maex)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1410.0,
+        "startZ": -5307.0,
+        "endX": 1531.0,
+        "endZ": -5246.0
+      }
+    },
+    {
+      "id": "Sakura Dojo",
+      "trackName": "Call of the Orient (Sakura Dojo)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 435.0,
+        "startZ": -5606.0,
+        "endX": 687.0,
+        "endZ": -5475.0
+      }
+    },
+    {
+      "id": "Qira's Hive",
+      "trackName": "The Dark Artist's Anthem (Qira's Hive)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 247.0,
+        "startZ": -5670.0,
+        "endX": 429.0,
+        "endZ": -5387.0
+      }
+    },
+    {
+      "id": "Gavel Gate",
+      "trackName": "Epic Gavel (Gavel Gate)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -2183.0,
+        "startZ": -4406.0,
+        "endX": -1843.0,
+        "endZ": -4223.0
+      }
+    },
+    {
+      "id": "Llevigar Plains",
+      "trackName": "Gavel Journey (Llevigar Plains)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -2199.0,
+        "startZ": -5001.0,
+        "endX": -1474.0,
+        "endZ": -4563.0
+      }
+    },
+    {
+      "id": "Olux Swamp",
+      "trackName": "Trodden-Down Paths (Olux Swamp)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -2310.0,
+        "startZ": -5627.0,
+        "endX": -1478.0,
+        "endZ": -5058.0
+      }
+    },
+    {
+      "id": "Pre-Light Forest",
+      "trackName": "Fringe of Fantasy (Pre-Light Forest)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1434.0,
+        "startZ": -5021.0,
+        "endX": -1187.0,
+        "endZ": -4339.0
+      }
+    },
+    {
+      "id": "Light Forest 1",
+      "trackName": "The Forest Lives On (Light Forest)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1194.0,
+        "startZ": -5111.0,
+        "endX": -866.0,
+        "endZ": -4345.0
+      }
+    },
+    {
+      "id": "Light Forest 2",
+      "trackName": "The Forest Lives On (Light Forest)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -864.0,
+        "startZ": -4828.0,
+        "endX": -553.0,
+        "endZ": -4410.0
+      }
+    },
+    {
+      "id": "Dark Forest",
+      "trackName": "The Forest Dies (Dark Forest)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1442.0,
+        "startZ": -5609.0,
+        "endX": -960.0,
+        "endZ": -5080.0
+      }
+    },
+    {
+      "id": "Cinfras County 1",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -399.0,
+        "startZ": -5590.0,
+        "endX": 52.0,
+        "endZ": -5056.0
+      }
+    },
+    {
+      "id": "Cinfras County 2",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -672.0,
+        "startZ": -5147.0,
+        "endX": -523.0,
+        "endZ": -4837.0
+      }
+    },
+    {
+      "id": "Cinfras County 3",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -536.0,
+        "startZ": -4815.0,
+        "endX": -1.0,
+        "endZ": -4670.0
+      }
+    },
+    {
+      "id": "Cinfras County 4",
+      "trackName": "Gylia Shanty (Cinfras County)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -135.0,
+        "startZ": -5048.0,
+        "endX": 22.0,
+        "endZ": -4821.0
+      }
+    },
+    {
+      "id": "Kander Forest",
+      "trackName": "The Outlook is Bleak (Kander Woods)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -400,
+        "startZ": -5158,
+        "endX": -972,
+        "endZ": -5616
+      }
+    },
+    {
+      "id": "Realm of Light",
+      "trackName": "Light's Hymn (Realm of Light)",
+      "fastSwitch": false,
+      "region": {
+        "startX": -1431.0,
+        "startZ": -7137.0,
+        "endX": 28.0,
+        "endZ": -6317.0
+      }
+    },
+    {
+      "id": "Upper Molten Heights",
+      "trackName": "Peaks of Ash and Flame (Upper Molten Heights)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 1205.0,
+        "startZ": -5637.0,
+        "endX": 1567.0,
+        "endZ": -5353.0
+      }
+    },
+    {
+      "id": "Lower Molten Heights",
+      "trackName": "Blazing Mountain (Lower Molten Heights)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 966.0,
+        "startZ": -5377.0,
+        "endX": 1617.0,
+        "endZ": -5007.0
+      }
+    },
+    {
+      "id": "Canyon of the Lost 1",
+      "trackName": "Aimless Paths (Canyon of the Lost)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 194.0,
+        "startZ": -5623.0,
+        "endX": 687.0,
+        "endZ": -4300.0
+      }
+    },
+    {
+      "id": "Canyon of the Lost 2",
+      "trackName": "Aimless Paths (Canyon of the Lost)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 690.0,
+        "startZ": -5654.0,
+        "endX": 955.0,
+        "endZ": -5034.0
+      }
+    },
+    {
+      "id": "Canyon of the Lost 3",
+      "trackName": "Aimless Paths (Canyon of the Lost)",
+      "fastSwitch": false,
+      "region": {
+        "startX": 957.0,
+        "startZ": -5652.0,
+        "endX": 1108.0,
+        "endZ": -5386.0
+      }
+    }
+  ]
+}
